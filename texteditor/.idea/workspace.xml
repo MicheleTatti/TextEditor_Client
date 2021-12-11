@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fa3250b-ca18-43ef-a793-0ceed2d66d1e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/QText Edit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/checkbox-checked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/checkbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/editcopy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/editcut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/editpaste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/editredo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/editundo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/exportpdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/filenew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/fileopen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/fileprint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/filesave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/format-indent-less.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/format-indent-more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/textbold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/textcenter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/textitalic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/textjustify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/textleft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/textright.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/textunder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/zoomin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mac/zoomout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/checkbox-checked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/checkbox.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/editcopy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/editcut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/editpaste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/editredo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/editundo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/exportpdf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/filenew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/fileopen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/fileprint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/filesave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/format-indent-less.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/format-indent-more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/textbold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/textcenter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/textitalic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/textjustify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/textleft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/textright.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/textunder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/zoomin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/win/zoomout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textedit.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textedit.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textedit.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textedit.qdoc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textedit.qrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PDSClient.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../PDSClient.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../filesselection.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../filesselection.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../filesselection.h" beforeDir="false" afterPath="$PROJECT_DIR$/../filesselection.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mainwindow.h" beforeDir="false" afterPath="$PROJECT_DIR$/../mainwindow.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/Makefile.Debug" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/Makefile.Debug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/Makefile.Release" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/Makefile.Release" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/GenericSymbol.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/GenericSymbol.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/PDSClient.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/PDSClient.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/PDSClient.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/PDSClient.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/PDSClient.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/PDSClient.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/PDSClient.vc.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/PDSClient.vc.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/StyleSymbol.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/StyleSymbol.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/TextSymbol.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/TextSymbol.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/client.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/client.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/filesselection.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/filesselection.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/main.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/main.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/mainwindow.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/mainwindow.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/moc_client.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/moc_client.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/moc_client.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/moc_client.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/moc_filesselection.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/moc_filesselection.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/moc_mainwindow.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/moc_mainwindow.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/moc_mainwindow.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/moc_mainwindow.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/moc_newfiledialog.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/moc_newfiledialog.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/moc_predefs.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/moc_predefs.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/newfiledialog.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/debug/newfiledialog.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/ui_filesselection.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../build-PDSClient-Desktop_Qt_5_14_2_MSVC2017_64bit-Debug/ui_filesselection.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1aZODTBqoGal82YuAp6bakHanPR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Progetto_PDS/Socket_Server" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fa3250b-ca18-43ef-a793-0ceed2d66d1e" name="Default Changelist" comment="" />
+      <created>1586939529706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586939529706</updated>
+      <workItem from="1586939531871" duration="901000" />
+      <workItem from="1601303739117" duration="1609000" />
+      <workItem from="1601310039770" duration="258000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1601303843515">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1601303843515" />
+  </component>
+</project>

@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>800</width>
+    <height>600</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>800</width>
+    <height>600</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <property name="styleSheet">
+    <string notr="true">QWidget{
+background:#73c259;
+}</string>
+   </property>
+   <layout class="QHBoxLayout" name="horizontalLayout_2">
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <widget class="QWidget" name="loginWidget_2" native="true">
+        <property name="focusPolicy">
+         <enum>Qt::ClickFocus</enum>
+        </property>
+        <widget class="QFrame" name="loginFrame">
+         <property name="geometry">
+          <rect>
+           <x>50</x>
+           <y>70</y>
+           <width>281</width>
+           <height>371</height>
+          </rect>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">QFrame{
+	background: 	#ffffff;
+	border-radius: 30px;
+}</string>
+         </property>
+         <property name="frameShape">
+          <enum>QFrame::StyledPanel</enum>
+         </property>
+         <property name="frameShadow">
+          <enum>QFrame::Raised</enum>
+         </property>
+         <widget class="QLabel" name="loginLabel">
+          <property name="geometry">
+           <rect>
+            <x>100</x>
+            <y>20</y>
+            <width>121</width>
+            <height>41</height>
+           </rect>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">*{
+font-familiy: Roboto;
+font-size: 24px;
+font:bold;
+}</string>
+          </property>
+          <property name="text">
+           <string>Accedi</string>
+          </property>
+         </widget>
+         <widget class="QLineEdit" name="loginUsername">
+          <property name="geometry">
+           <rect>
+            <x>20</x>
+            <y>120</y>
+            <width>241</width>
+            <height>31</height>
+           </rect>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">QLineEdit{
+	background: transparent;
+	border:none;
+	color:#717072;
+	border-bottom:1px solid #717072;
+	font-family: Roboto;
+}</string>
+          </property>
+          <property name="inputMask">
+           <string/>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="placeholderText">
+           <string>Username</string>
+          </property>
+         </widget>
+         <widget class="QLineEdit" name="loginPassword">
+          <property name="geometry">
+           <rect>
+            <x>20</x>
+            <y>210</y>
+            <width>241</width>
+            <height>31</height>
+           </rect>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">QLineEdit{
+	background: transparent;
+	border:none;
+	color:#717072;
+	border-bottom:1px solid #717072;
+	font-family: Roboto;
+	type: password
+}</string>
+          </property>
+          <property name="inputMask">
+           <string/>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="maxLength">
+           <number>32767</number>
+          </property>
+          <property name="echoMode">
+           <enum>QLineEdit::Password</enum>
+          </property>
+          <property name="placeholderText">
+           <string>Password</string>
+          </property>
+         </widget>
+         <widget class="QPushButton" name="loginButton">
+          <property name="geometry">
+           <rect>
+            <x>80</x>
+            <y>300</y>
+            <width>121</width>
+            <height>51</height>
+           </rect>
+          </property>
+          <property name="focusPolicy">
+           <enum>Qt::ClickFocus</enum>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">
+loginButton{ 
+      text-decoration: none; 
+      border: none; 
+      padding: 12px 40px; 
+      font-size: 16px; 
+      background-color: green; 
+      color: #fff; 
+      border-radius: 5px; 
+      box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.24); 
+      cursor: pointer; 
+      outline: none; 
+      transition: 0.2s all; 
+ } 
+        /* Adding transformation when the button is active */ 
+          
+.loginButton:active { 
+       transform: scale(0.98); 
+       /* Scaling button to 0.98 to its original size */ 
+       box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24); 
+        /* Lowering the shadow */ 
+ } </string>
+          </property>
+          <property name="text">
+           <string>Accedi</string>
+          </property>
+          <property name="autoDefault">
+           <bool>false</bool>
+          </property>
+         </widget>
+        </widget>
+       </widget>
+      </item>
+      <item>
+       <widget class="Line" name="line">
+        <property name="orientation">
+         <enum>Qt::Vertical</enum>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QWidget" name="registrationWidget" native="true">
+        <widget class="QFrame" name="registrationFrame">
+         <property name="geometry">
+          <rect>
+           <x>40</x>
+           <y>30</y>
+           <width>301</width>
+           <height>451</height>
+          </rect>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">QFrame{
+	background: 	#ffffff;
+	border-radius: 30px;
+}</string>
+         </property>
+         <property name="frameShape">
+          <enum>QFrame::StyledPanel</enum>
+         </property>
+         <property name="frameShadow">
+          <enum>QFrame::Raised</enum>
+         </property>
+         <widget class="QLineEdit" name="registrationUsername">
+          <property name="geometry">
+           <rect>
+            <x>20</x>
+            <y>110</y>
+            <width>251</width>
+            <height>31</height>
+           </rect>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">QLineEdit{
+	background: transparent;
+	border:none;
+	color:#717072;
+	border-bottom:1px solid #717072;
+	font-family: Roboto;
+}</string>
+          </property>
+          <property name="inputMask">
+           <string/>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="placeholderText">
+           <string>Username</string>
+          </property>
+         </widget>
+         <widget class="QLabel" name="registrationLabel">
+          <property name="geometry">
+           <rect>
+            <x>100</x>
+            <y>20</y>
+            <width>121</width>
+            <height>41</height>
+           </rect>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">*{
+font-familiy: Roboto;
+font-size: 24px;
+font:bold;
+}</string>
+          </property>
+          <property name="text">
+           <string>Registrati</string>
+          </property>
+         </widget>
+         <widget class="QLineEdit" name="registrationNickname">
+          <property name="geometry">
+           <rect>
+            <x>20</x>
+            <y>180</y>
+            <width>251</width>
+            <height>31</height>
+           </rect>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">QLineEdit{
+	background: transparent;
+	border:none;
+	color:#717072;
+	border-bottom:1px solid #717072;
+	font-family: Roboto;
+}</string>
+          </property>
+          <property name="inputMask">
+           <string/>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="maxLength">
+           <number>32767</number>
+          </property>
+          <property name="echoMode">
+           <enum>QLineEdit::Normal</enum>
+          </property>
+          <property name="placeholderText">
+           <string>Nickname</string>
+          </property>
+         </widget>
+         <widget class="QLineEdit" name="registrationFirstPassword">
+          <property name="geometry">
+           <rect>
+            <x>20</x>
+            <y>250</y>
+            <width>251</width>
+            <height>31</height>
+           </rect>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">QLineEdit{
+	background: transparent;
+	border:none;
+	color:#717072;
+	border-bottom:1px solid #717072;
+	font-family: Roboto;
+}</string>
+          </property>
+          <property name="inputMask">
+           <string/>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="echoMode">
+           <enum>QLineEdit::Password</enum>
+          </property>
+          <property name="placeholderText">
+           <string>Password</string>
+          </property>
+         </widget>
+         <widget class="QPushButton" name="registrationButton">
+          <property name="geometry">
+           <rect>
+            <x>90</x>
+            <y>380</y>
+            <width>121</width>
+            <height>51</height>
+           </rect>
+          </property>
+          <property name="focusPolicy">
+           <enum>Qt::ClickFocus</enum>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">loginButton{ 
+      text-decoration: none; 
+      border: none; 
+      padding: 12px 40px; 
+      font-size: 16px; 
+      background-color: green; 
+      color: #fff; 
+      border-radius: 5px; 
+      box-shadow: 7px 6px 28px 1px rgba(0, 0, 0, 0.24); 
+      cursor: pointer; 
+      outline: none; 
+      transition: 0.2s all; 
+ } 
+        /* Adding transformation when the button is active */ 
+          
+.loginButton:active { 
+       transform: scale(0.98); 
+       /* Scaling button to 0.98 to its original size */ 
+       box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24); 
+        /* Lowering the shadow */ 
+ } </string>
+          </property>
+          <property name="text">
+           <string>Registrati</string>
+          </property>
+         </widget>
+         <widget class="QLineEdit" name="registrationSecondPassword">
+          <property name="geometry">
+           <rect>
+            <x>20</x>
+            <y>320</y>
+            <width>251</width>
+            <height>31</height>
+           </rect>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">QLineEdit{
+	background: transparent;
+	border:none;
+	color:#717072;
+	border-bottom:1px solid #717072;
+	font-family: Roboto;
+}</string>
+          </property>
+          <property name="inputMask">
+           <string/>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+          <property name="maxLength">
+           <number>32767</number>
+          </property>
+          <property name="echoMode">
+           <enum>QLineEdit::Password</enum>
+          </property>
+          <property name="placeholderText">
+           <string>Ripeti password</string>
+          </property>
+         </widget>
+         <zorder>registrationUsername</zorder>
+         <zorder>registrationLabel</zorder>
+         <zorder>registrationNickname</zorder>
+         <zorder>registrationFirstPassword</zorder>
+         <zorder>registrationSecondPassword</zorder>
+         <zorder>registrationButton</zorder>
+        </widget>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
